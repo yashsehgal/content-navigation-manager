@@ -1,0 +1,27 @@
+[
+  {
+    "contentTitle": "Iron Man",
+    "contentBody": "Iron Man is Tony Stark.",
+    "contentRoute": "/ironman"
+  },
+  {
+    "contentTitle": "Hulk",
+    "contentBody": "Hulk is Bruce Banner",
+    "contentRoute": "/hulk"
+  },
+  {
+    "contentTitle": "Black Widow",
+    "contentBody": "Black Widow is Natasha",
+    "contentRoute": "/black-widow"
+  },
+  {
+    "contentTitle": "Captain America",
+    "contentBody": "Steve Rogers is Captain America",
+    "contentRoute": "/captain-america"
+  },
+  {
+    "contentTitle": "Spider Man",
+    "contentBody": "Peter Parker is Spider Man",
+    "contentRoute": "/spiderman"
+  }
+]

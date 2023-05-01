@@ -1,3 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body {
+  @apply my-12;
+  @apply w-[1000px] max-lg:w-[720px] max-md:w-[560px] max-sm:w-[340px] mx-auto;
+}
